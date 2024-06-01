@@ -4,6 +4,9 @@ module.exports = {
     './index.html'
   ],
   theme: {
+    backgroundImage: {
+      'main-img': "url('/img/bgimg.jpg')"
+    },
     extend: {},
   },
   plugins: [],
